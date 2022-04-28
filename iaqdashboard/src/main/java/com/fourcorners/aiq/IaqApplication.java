@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class IaqApplication {
-	//Check commit
+	//Check commit to add to staging
 	public static void main(String[] args) {
 		SpringApplication.run(IaqApplication.class, args);
 	}
